@@ -1,6 +1,8 @@
 # Processamento e Visualização de Acórdãos Jurídicos: Uma Abordagem Baseada em NLP e Business Intelligence
 
-<img src="[caminho/da/imagem.png](https://www.sbfisica.org.br/v1/sbf/wp-content/uploads/2024/10/UFG_LOGO.png)" width="300px">
+<p align="center">
+  <img src="https://www.sbfisica.org.br/v1/sbf/wp-content/uploads/2024/10/UFG_LOGO.png" width="300px" height = "300px">
+</p>
 
 **Universidade Federal de Goiás**
 Instituto de Informática
