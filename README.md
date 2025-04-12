@@ -1,6 +1,6 @@
 # Processamento e Visualização de Acórdãos Jurídicos: Uma Abordagem Baseada em NLP e Business Intelligence
 
-[![UFG](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AMarca_da_UFG.png&psig=AOvVaw1FbxLdOvtU4bifRd_8fLqC&ust=1744577704891000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDt3sSw04wDFQAAAAAdAAAAABAE)]()
+[![UFG](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhselecao2.cett.dev.br%2F&psig=AOvVaw32wIdhJqoWd75UvaIrx3on&ust=1744577838767000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjNwoSx04wDFQAAAAAdAAAAABAJ)]()
 
 **Universidade Federal de Goiás**
 Instituto de Informática
